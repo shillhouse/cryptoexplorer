@@ -12,10 +12,10 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Tools and resources to help you get to the moon</description>
-	<lastBuildDate>Thu, 02 Aug 2018 23:40:58 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 18 Aug 2018 20:16:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.7</generator>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
 </channel>
 </rss>
